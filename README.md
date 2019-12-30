@@ -1,4 +1,4 @@
-# Tổng quan Cloud Computing 
+# Tổng quan Cloud Computing  forked from nhanhoadocs/tutorial-openstack
 
 # Tổng quan OpenStack 
 
